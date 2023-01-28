@@ -1,0 +1,58 @@
+button{
+    width:100px;
+    height:100px;
+ }
+
+ body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: url("image.jpg") no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; /* add this */
+}
+
+#result {
+    margin-top: 15px;
+    font-size: xx-large;
+    color: red;
+}
+
+#copyright {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 10px;
+    background-color: #6f6767;
+}
+
+@media (max-width: 600px) {
+    table {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    td {
+        font-size: 1.2em;
+    }
+}
+
+footer{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .myTable{
+    width: 90%;
+    margin: 0 auto;
+  }
