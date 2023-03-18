@@ -5,4 +5,4 @@
 - You can read my detailed blog on developing this game, the logics behind it and how to create a
 impossible version here -> https://research2simplified.blogspot.com/2023/01/tic-tac-toe-can-we-create-impossible-to.html
 
-##### Check out the live version of site -> 
+##### Check out the live version of site -> https://ssr-04.github.io/tic-tac-web/
